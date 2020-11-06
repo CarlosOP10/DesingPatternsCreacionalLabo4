@@ -39,5 +39,8 @@
     <Compile Include="FacadaATM.cs" />
     <Compile Include="Client.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Summary.md" />
+  </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
